@@ -7,4 +7,4 @@ Currently this board is partially tested. See release notes for a quick overview
 
 Working files on `main` should also be used with caution.
 
-<img src="/board-photo.jpg" alt="Photo of the board" width="300">
+<img src="/board-photo.JPG" alt="Photo of the board" width="300">
