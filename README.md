@@ -3,8 +3,6 @@
 
 KiCad files are made with KiCad v7.
 
-Currently this board is partially tested. See release notes for a quick overview of the state of that release.
-
-Working files on `main` should also be used with caution.
+Currently this board is partially tested. Files on `main` should also be used with caution.
 
 <img src="/board-photo.JPG" alt="Photo of the board" width="300">
