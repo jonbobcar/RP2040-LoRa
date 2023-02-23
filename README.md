@@ -3,8 +3,8 @@
 
 KiCad files are made with KiCad v7.
 
-Currently this board is partially tested. See release notes for a quick overview of the state of that release.
+**Currently the BMS is not fuctioning as intented**
 
-Working files on `main` should also be used with caution.
+This board is partially tested. Files on `main` should be used with caution.
 
-<img src="/board-photo.JPG" alt="Photo of the board" width="300">
+<img src="/board-photo.JPG" alt="Photo of the board" width="600">
